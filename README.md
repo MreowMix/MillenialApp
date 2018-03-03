@@ -1,2 +1,0 @@
-# MillenialApp
-Created with CodeSandbox
